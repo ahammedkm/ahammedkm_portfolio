@@ -1508,12 +1508,12 @@ footer .credits a {
   font-size: 1.2rem;
 }
 
-.bg-image {
+/* .bg-image {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
   background-position: center center;
-}
+} */
 
 .overlay-mf {
   background-color: var(--bg-darker);
