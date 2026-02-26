@@ -1480,6 +1480,7 @@ footer .credits a {
     background: url('../img/intro-bg.jpg');
     background-repeat: repeat;
     background-size: auto;
+    background-position: center;
     /* top: -40px; */
   }
 
