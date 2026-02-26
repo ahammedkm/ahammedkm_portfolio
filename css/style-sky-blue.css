@@ -1469,12 +1469,12 @@ footer .credits a {
   }
 
   .navbar-b.navbar-reduce {
-    padding: 30px;
+    padding: 30px !important;
   }
 
   .intro {
-    background-repeat: repeat;
-    background-size: auto;
+    background-repeat: repeat !important;
+    background-size: auto !important;
   }
 
 }
